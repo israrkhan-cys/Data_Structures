@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+//function to remove duplicates
+
 void remove_dupllicate(int *arr , int &size){
     int unique_count=0;
       
@@ -29,16 +31,10 @@ int main(){
      int size=10;
       
      remove_dupllicate(temp,size);
-
-
+    
      for (int i = 0; i < size; i++)
      {
         cout<<temp[i]<<" ";
      }
-     
-
-
-
-
     return 0;
 }
