@@ -6,6 +6,7 @@ It is designed to serve as a **learning companion and reference guide** for stud
 
 ---
 Imp Material Drive link: https://drive.google.com/drive/folders/1Da_v5uHIvBscWcRRgMsYGq-hJ00dQL9Y?usp=drive_link
+
 This single Google Drive Coantians alot of learning materials  which will help you throught the course it has DSA Notes ,Practice Questions, Coding sheets etc. So must check this Out. 
 
 For Exams Must practice as much as you can from the excel sheet of different topics.
@@ -51,24 +52,13 @@ For Exams Must practice as much as you can from the excel sheet of different top
 
 ---
 
-##  How to Use This Repository
+## How to Use This Repository (Recommended)
 
-### 📖 **Step 1: Learn the Concept**
-- Review lecture slides or recommended textbooks
-- Understand the theory before diving into code
-
-### 🔍 **Step 2: Explore Implementations**
-- Navigate to the relevant topic in the [`Codes_Written/`](./Codes_Written/) folder
-- Study the code, trace through examples, and run them locally
-
-### 💻 **Step 3: Practice Actively**
-- Use problems in [`Practice_Problems/`](./Practice_Problems/) to test your understanding
-- Try modifying or extending existing implementations
-- Re-implement algorithms from scratch
-
-### 📝 **Step 4: Revise for Exams**
-- Refer to [`Most_IMP_Practice_ProblemSheet_for exams.xlsx`](./Most_IMP_Practice_ProblemSheet_for exams.xlsx) for curated problem lists 
-- Solve past papers in [`Practice_Stuff/Past_Papers/`](./Practice_Stuff/Past_Papers/)
+1.Learn the concept first (lecture slides / book)
+2.Explore relevant code in Codes_Written/
+3.Practice from Practice_Problems/
+4.Review Important_DSA_Problems.xlsx before exams and practice Questions for it for every topic and must solve past papers.
+5.Modify code and re-implement it yourself
 
 ---
 
@@ -96,7 +86,7 @@ For Exams Must practice as much as you can from the excel sheet of different top
 
 ---
 
-
+# Contact: 7israr.work@gmail.con
 
 ## Keywords
 `Data Structures` `Algorithms` `FAST-NUCES` `DSA` `Programming` `Computer Science` `Education` `Study Resource`
