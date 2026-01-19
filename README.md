@@ -35,7 +35,7 @@ Solutions is available in Data_Assignment/
 ├── Data_Assignment/        # Official course assignments
 │   └── (For reference and problem-solving practice)
 │
-├── Practice_Stuff/         # Practice and revision materials
+├── Practice_Problems/         # Practice and revision materials
 │   ├── Practice PDFs/
 │   ├── Lab tasks/
 │   └── Past_Papers
