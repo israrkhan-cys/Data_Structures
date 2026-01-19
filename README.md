@@ -1,12 +1,16 @@
-# 📚 Data Structures & Algorithms (DSA) Repository  
+# Data Structures & Algorithms (DSA) Repository  
 **FAST-NUCES – 3rd Semester Coursework**
 
 This repository contains a structured collection of **Data Structures & Algorithms** implementations, assignments, lab tasks, and practice resources created during my 3rd semester at FAST-NUCES.  
 It is designed to serve as a **learning companion and reference guide** for students taking the DSA course.
 
 ---
+Imp Material Drive link: https://drive.google.com/drive/folders/1Da_v5uHIvBscWcRRgMsYGq-hJ00dQL9Y?usp=drive_link
+This single Google Drive Coantians alot of learning materials  which will help you throught the course it has DSA Notes ,Practice Questions, Coding sheets etc. So must check this Out. 
 
-## 📂 Repository Structure
+For Exams Must practice as much as you can from the excel sheet of different topics.
+
+## Repository Structure
 
 ```
 .
@@ -34,7 +38,7 @@ It is designed to serve as a **learning companion and reference guide** for stud
 
 ---
 
-## 🧠 Topics Covered
+## Topics Covered
 
 - **Arrays & Dynamic Memory**
 - **Linked Lists** (Singly, Doubly, Circular)
@@ -63,7 +67,7 @@ It is designed to serve as a **learning companion and reference guide** for stud
 - Re-implement algorithms from scratch
 
 ### 📝 **Step 4: Revise for Exams**
-- Refer to [`Most_IMP_Practice_ProblemSheet_for exams.xlsx`](./Most_IMP_Practice_ProblemSheet_for exams.xlsx) for curated problem lists
+- Refer to [`Most_IMP_Practice_ProblemSheet_for exams.xlsx`](./Most_IMP_Practice_ProblemSheet_for exams.xlsx) for curated problem lists 
 - Solve past papers in [`Practice_Stuff/Past_Papers/`](./Practice_Stuff/Past_Papers/)
 
 ---
@@ -71,7 +75,7 @@ It is designed to serve as a **learning companion and reference guide** for stud
 ## Learning Tips
 
 > **"Start early. Practice consistently. Build intuition."**
-
+> 
 - **Don't procrastinate** – DSA concepts build upon each other
 - **Write code by hand** before typing it out
 - **Explain concepts** to peers to reinforce your understanding
