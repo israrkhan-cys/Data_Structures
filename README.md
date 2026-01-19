@@ -9,8 +9,7 @@ Imp Material Drive link: https://drive.google.com/drive/folders/1Da_v5uHIvBscWcR
 
 This single Google Drive Coantians alot of learning materials  which will help you throught the course it has DSA Notes ,Practice Questions, Coding sheets etc. So must check this Out. 
 
-**Pro Tip:** For exams, practice extensively from the "Most_IMP_Practice_ProblemSheet_for exams.xlsx" and solve as many problems as possible for each topic.
-Most_IMP_Practice_ProblemSheet_for exams.xlsx
+**Pro Tip:** For exams, practice extensively from the "Most_IMP_Practice_ProblemSheet_for exams.xlsx" and solve as many problems as possible for each topic Most exam Questions come from this sheet.
 
 
 ## Repository Structure
