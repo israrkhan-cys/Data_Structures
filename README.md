@@ -61,9 +61,13 @@ Recommended approach: Whenever you study a new topic, go through and solve the r
 ## How to Use This Repository (Recommended)
 
 1.Learn the concept first (lecture slides / book)
+
 2.Explore relevant code in Codes_Written/
+
 3.Practice from Practice_Problems/
+
 4.Review Important_DSA_Problems.xlsx before exams and practice Questions for it for every topic and must solve past papers.
+
 5.Modify code and re-implement it yourself
 
 ---
