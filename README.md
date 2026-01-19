@@ -9,7 +9,8 @@ Imp Material Drive link: https://drive.google.com/drive/folders/1Da_v5uHIvBscWcR
 
 This single Google Drive Coantians alot of learning materials  which will help you throught the course it has DSA Notes ,Practice Questions, Coding sheets etc. So must check this Out. 
 
-For Exams Must practice as much as you can from the excel sheet of different topics.
+> **Pro Tip:** For exams, practice extensively from the Excel sheet and solve as many problems as possible for each topic.
+
 
 ## Repository Structure
 
@@ -77,7 +78,7 @@ For Exams Must practice as much as you can from the excel sheet of different top
 
 
 
-## 📌 Important Notes
+## Important Notes
 
 - This repository is for **educational purposes only**
 - Always try to understand the logic before using any code
@@ -86,11 +87,6 @@ For Exams Must practice as much as you can from the excel sheet of different top
 
 ---
 
-# Contact: 7israr.work@gmail.con
+## 📧 Contact
+**Email:** 7israr.work@gmail.com
 
-## Keywords
-`Data Structures` `Algorithms` `FAST-NUCES` `DSA` `Programming` `Computer Science` `Education` `Study Resource`
-
----
-
-*Happy Coding! 💻✨*
