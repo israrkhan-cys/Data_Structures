@@ -14,6 +14,7 @@ This single Google Drive Coantians alot of learning materials  which will help y
 ### 📄 Comprehensive DSA Practice Questions: https://docs.google.com/document/d/1LHCLaDZfC5bwxBm7w0zuzViBERPfkd2-MI1FZKWUfVY/edit?usp=sharing
 This document contains over 80 practice questions covering all major DSA topics.
 Recommended approach: Whenever you study a new topic, go through and solve the related practice questions to reinforce your understanding.
+Solutions is available in Data_Assignment/
 
 
 
