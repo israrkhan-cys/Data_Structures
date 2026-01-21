@@ -38,7 +38,8 @@ Solutions is available in Data_Assignment/
 ├── Practice_Problems/         # Practice and revision materials
 │   ├── Practice PDFs/
 │   ├── Lab tasks/
-│   └── Past_Papers
+│
+|---Papers
 │
 ├── Important_DSA_Problems.xlsx  # Curated problem list for exam prep
 └── README.md
