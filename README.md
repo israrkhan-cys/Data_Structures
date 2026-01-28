@@ -82,8 +82,6 @@ Solutions is available in Data_Assignment/
 - **Write code by hand** before typing it out
 - **Explain concepts** to peers to reinforce your understanding
 - **Solve problems daily** – consistency beats cramming
-- **Use this repo as reference**, not just copy-paste material
-
 ---
 
 
